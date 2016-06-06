@@ -1,0 +1,9 @@
+C:\Users\TSorrels\Documents\Visual Studio 2015\Projects\WindowsTCPMonitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\TSorrels\Documents\Visual Studio 2015\Projects\WindowsTCPMonitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\TSorrels\Documents\Visual Studio 2015\Projects\WindowsTCPMonitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\TSorrels\Documents\Visual Studio 2015\Projects\WindowsTCPMonitor\WindowsFormsApplication1\obj\Debug\WindowsTCPMonitor.csprojResolveAssemblyReference.cache
+C:\Users\TSorrels\Documents\Visual Studio 2015\Projects\WindowsTCPMonitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\TSorrels\Documents\Visual Studio 2015\Projects\WindowsTCPMonitor\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TSorrels\Documents\Visual Studio 2015\Projects\WindowsTCPMonitor\WindowsFormsApplication1\obj\Debug\WindowsTCPMonitor.csproj.GenerateResource.Cache
+C:\Users\TSorrels\Documents\Visual Studio 2015\Projects\WindowsTCPMonitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\TSorrels\Documents\Visual Studio 2015\Projects\WindowsTCPMonitor\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
